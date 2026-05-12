@@ -103,11 +103,6 @@ Every number in the paper can be verified from pre-saved files in `/results/`:
 
 ---
 
-## Citation
-
-> Under double-blind review. Citation withheld.
-
----
 
 ## License
 
