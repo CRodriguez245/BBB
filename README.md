@@ -1,6 +1,5 @@
 # Beyond Behavioral Benchmarks: Mechanistic Evidence of Demographic Encoding Dissociation in Language Models
 
-> Under double-blind review. Author and institution information withheld.
 
 This repository contains all code and saved results for the paper "Beyond Behavioral Benchmarks: Mechanistic Evidence of Demographic Encoding Dissociation in Language Models."
 
